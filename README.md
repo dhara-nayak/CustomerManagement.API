@@ -103,6 +103,7 @@ API is fully testable using Swagger without writing separate UI.
 
 
 
+
 📄 High-Level Purpose of the Project
 
 The main purpose of this project is to:
@@ -114,3 +115,11 @@ Implement real-world engineering patterns like Clean Architecture
 Provide a base structure where additional modules (Orders, Billing, Authentication) can be added easily
 
 Learn professional-level architecture used in industry
+
+
+
+OUTPUT:
+<img width="1599" height="743" alt="image" src="https://github.com/user-attachments/assets/39dfa496-41da-403e-b5d5-a2496472720d" />
+
+<img width="1599" height="862" alt="image" src="https://github.com/user-attachments/assets/c0819e5f-3322-42c5-a581-a44ac40744ff" />
+
